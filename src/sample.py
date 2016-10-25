@@ -2,4 +2,8 @@
 
 print("Hello world!!");
 
-print("python 始めました。") 
+print("python 始めました。");
+
+x = 111;
+
+print(x*3); 
